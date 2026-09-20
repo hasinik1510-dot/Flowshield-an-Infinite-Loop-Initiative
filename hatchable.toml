@@ -1,0 +1,3 @@
+[[cron]]
+path = "/api/jobs/update-weather"
+schedule = "0 * * * *"
